@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wataru Iwashita / Wataru Iwashita"
+title                    : "Wataru Iwashita"
 title_separator          : "-"
 name                     : &name "Wataru Iwashita"
 description              : &description "personal description"
