@@ -83,12 +83,12 @@ author:
   name             : "Wataru Iwashita"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Osaka, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=shDjbzEAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=shDjbzEAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Wataru-Iwashita"
   uri              :
   bitbucket        :
   codepen          :
