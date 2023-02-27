@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Department of Mechanical Science and Bioengineering, Osaka University, 2025 (expected)
+* M.E. in Department of Mechanical Science and Bioengineering, Osaka University, 2022
+* B.E. in Department of Systems Science, Osaka University, 2021
+* Associate D.E., Department of Mechanical Engineering, National Institute of Technology, Nagano College, 2019
 
 Work experience
 ======
