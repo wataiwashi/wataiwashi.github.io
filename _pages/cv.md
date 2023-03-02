@@ -19,14 +19,14 @@ Education
   
 Skills
 ======
-* Languages (4: native, 3: fluent, 2: good, 1: fair)
-  * Japanese -- 4
-  * English -- 3
-  * Malay -- 2
-  * <span style="color: #696969; "> Fortran - 3 </span>
-  * Python - 2
-  * C - 1
-  * <span style="color: #a9a9a9; "> Linux/Shell - 2 </span>
+* Languages (4: Native, 3: Fluent, 2: Good, 1: Fair)
+  * Japanese --- 4
+  * English --- 3
+  * Malay --- 2
+  * <span style="color: #4a4a4a; "> Fortran --- 3 </span>
+  * <span style="color: #4a4a4a; "> Python --- 2 </span>
+  * <span style="color: #4a4a4a; "> C --- 1 </span>
+  * <span style="color: #787878; "> Linux/Shell --- 2 </span>
 
 Publications
 ======
