@@ -19,24 +19,10 @@ Education
   
 Languages
 ======
-<table border="0">
-  <tr>
-    <td class="width-fix">・Alt+Z</td>
-    <td> [右端で折り返す]の設定/解除</td>
-  </tr>
-  <tr>
-    <td class="width-fix">・Ctrl+/</td>
-    <td> 選択した行のコメントの設定/解除</td>
-  </tr>
-  <tr>
-    <td class="width-fix">・Shift+Alt+A</td>
-    <td> 選択した範囲のコメント設定/解除</td>
-  </tr>
-</table>
 
 4: Native, 3: Fluent, 2: Good, 1: Fair
-* <span style="color: #171717; "> Japanese    --- 4 </span>
-* <span style="color: #171717; "> English     --- 3 </span>
+* <span style="color: #171717; display: inline-block; width: 10em; "> Japanese </span>    --- 4
+* <span style="color: #171717; display: inline-block; width: 10em; "> English </span>     --- 3
 * <span style="color: #171717; "> Malay       --- 2 </span>
 * <span style="color: #4a4a4a; "> Fortran     --- 3 </span>
 * <span style="color: #4a4a4a; "> Python      --- 2 </span>
