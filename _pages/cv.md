@@ -29,6 +29,14 @@ Languages
 * <span style="color: #4a4a4a; display: inline-block; width: 5.5em; "> C            </span> --- &nbsp; 1
 * <span style="color: #787878; display: inline-block; width: 5.5em; "> Linux/Shell  </span> --- &nbsp; 2
 
+Research proposal-based use of supercomputer systems
+======
+|  Supercomputer system  |  Category  |  Year  |
+| ---- | ---- | ---- |
+|  Fugaku, RIKEN Center for Computational Science, Japan  |  Trial Access Projects  | 2023 |
+|  SQUID, Cybermedia Center, Osaka University, Japan  |  Large-Scale High-Performance Computing Projects  | 2023 |
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
