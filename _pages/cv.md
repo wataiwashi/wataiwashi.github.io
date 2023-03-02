@@ -32,24 +32,6 @@ Languages
 Research proposal-based use of supercomputer systems
 ======
 
-<table border="0">
-  <tr>
-    <th> Supercomputer system </th>
-    <th> Category </th>
-    <th> Year </th>
-  </tr>
-  <tr>
-    <td> Fugaku, RIKEN Center for Computational Science, Japan </td>
-    <td> Trial Access Projects </td>
-    <td> 2023 </td>
-  </tr>
-  <tr>
-    <td> SQUID, Cybermedia Center, Osaka University, Japan </td>
-    <td> Large-Scale High-Performance Computing Projects </td>
-    <td> 2023 </td>
-  </tr>
-</table>
-
 |  Supercomputer system  |  Category  |  Year  |
 | ---- | ---- | ---- |
 |  Fugaku, RIKEN Center for Computational Science, Japan  |  Trial Access Projects  | 2023 |
