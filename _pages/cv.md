@@ -21,13 +21,13 @@ Languages
 ======
 
 4: Native, 3: Fluent, 2: Good, 1: Fair
-* <span style="color: #171717; display: inline-block; width: 6em; "> Japanese     </span> --- 4
-* <span style="color: #171717; display: inline-block; width: 6em; "> English      </span> --- 3
-* <span style="color: #171717; display: inline-block; width: 6em; "> Malay        </span> --- 2
-* <span style="color: #4a4a4a; display: inline-block; width: 6em; "> Fortran      </span> --- 3
-* <span style="color: #4a4a4a; display: inline-block; width: 6em; "> Python       </span> --- 2
-* <span style="color: #4a4a4a; display: inline-block; width: 6em; "> C            </span> --- 1
-* <span style="color: #787878; display: inline-block; width: 6em; "> Linux/Shell  </span> --- 2
+* <span style="color: #171717; display: inline-block; width: 6em; "> Japanese     </span> --- &nbsp; 4
+* <span style="color: #171717; display: inline-block; width: 6em; "> English      </span> --- &nbsp; 3
+* <span style="color: #171717; display: inline-block; width: 6em; "> Malay        </span> --- &nbsp; 2
+* <span style="color: #4a4a4a; display: inline-block; width: 6em; "> Fortran      </span> --- &nbsp; 3
+* <span style="color: #4a4a4a; display: inline-block; width: 6em; "> Python       </span> --- &nbsp; 2
+* <span style="color: #4a4a4a; display: inline-block; width: 6em; "> C            </span> --- &nbsp; 1
+* <span style="color: #787878; display: inline-block; width: 6em; "> Linux/Shell  </span> --- &nbsp; 2
 
 Publications
 ======
