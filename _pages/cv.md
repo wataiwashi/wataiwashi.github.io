@@ -20,8 +20,8 @@ Education
 Languages
 ======
 4: Native, 3: Fluent, 2: Good, 1: Fair
-* <span style="color: #171717; "> <pre>Japanese   &#009;&#009; --- 4</pre> </span>
-* <span style="color: #171717; "> <pre>English    &#009;&#009; --- 3</pre> </span>
+* <span style="color: #171717; "> Japanese    --- 4 </span>
+* <span style="color: #171717; "> English     --- 3 </span>
 * <span style="color: #171717; "> Malay       --- 2 </span>
 * <span style="color: #4a4a4a; "> Fortran     --- 3 </span>
 * <span style="color: #4a4a4a; "> Python      --- 2 </span>
