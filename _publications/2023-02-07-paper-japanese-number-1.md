@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-02-07
 venue: 'トライボロジスト (Journal of Japanese Society of Tribologists)'
 paperurl: 'https://doi.org/10.18914/tribologist.22-00021'
-citation: 'K. Yanagisawa, C. Saito, W. Iwashita & N. Okumura, <i>J. Jpn Soc. Tribol.</i> (2023) in Japanese.'
+citation: 'K. Yanagisawa, C. Saito, W. Iwashita & N. Okumura, <i>J. Jpn. Soc. Tribol.</i> (2023) in Japanese.'
 ---
 
 Keywords: Sliding behavior of drop, Friction force of drop, Hydrophobicity, Silicone film, Bond number, Capillary number
