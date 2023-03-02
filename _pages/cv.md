@@ -31,6 +31,25 @@ Languages
 
 Research proposal-based use of supercomputer systems
 ======
+
+<table>
+  <tr>
+    <th> Supercomputer system </th>
+    <th> Category </th>
+    <th> Year </th>
+  </tr>
+  <tr>
+    <td> Supercomputer system </td>
+    <td> Category </td>
+    <td> Year </td>
+  </tr>
+  <tr>
+    <td> Supercomputer system </td>
+    <td> Category </td>
+    <td> Year </td>
+  </tr>
+</table>
+
 |  Supercomputer system  |  Category  |  Year  |
 | ---- | ---- | ---- |
 |  Fugaku, RIKEN Center for Computational Science, Japan  |  Trial Access Projects  | 2023 |
