@@ -11,12 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Department of Mechanical Science and Bioengineering, Osaka University, Japan, 2025 (expected)
-* M.E. in Department of Mechanical Science and Bioengineering, Osaka University, Japan, 2022
-* B.E. in Department of Systems Science, Osaka University, Japan, 2021
-* Associate D.E., Department of Mechanical Engineering, National Institute of Technology, Nagano College, Japan, 2019
+* Ph.D in Department of Mechanical Science and Bioengineering, [Osaka University][ou], Japan, 2025 (expected)
+* M.E. in Department of Mechanical Science and Bioengineering, [Osaka University][ou], Japan, 2022
+* B.E. in Department of Systems Science, [Osaka University][ou], Japan, 2021
+* Associate D.E., Department of Mechanical Engineering, [National Institute of Technology, Nagano College][nitc], Japan, 2019
 * [AFS Exchange Program][afs], SMK Seri Badong, Malaysia, 2015
-[afs]:https://afs.org/
   
 Skills
 ======
@@ -28,7 +27,6 @@ Skills
   * <span style="color: #4a4a4a; "> Python --- 2 </span>
   * <span style="color: #4a4a4a; "> C --- 1 </span>
   * <span style="color: #787878; "> Linux/Shell --- 2 </span>
-  * <span style="color: #787878; "> LaTeX --- 2 </span>
 
 Publications
 ======
@@ -41,3 +39,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
+[ou]:https://www.osaka-u.ac.jp/en
+[nitc]:https://www.nagano-nct.ac.jp/english/index.php
+[afs]:https://afs.org/
