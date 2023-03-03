@@ -46,11 +46,13 @@ author_profile: true
 
 学会発表
 =====
+<p style="margin-bottom: -0.5em; "></p>
 
 国際学会
 ------
 
 [Talksのページに移動](https://wataiwashi.github.io/talks/)
+<p style="margin-bottom: -0.5em; "></p>
 
 国内学会
 -------
