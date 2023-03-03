@@ -5,7 +5,9 @@ excerpt: "Japanese"
 author_profile: true
 ---
 
-岩下 航
+<p style="margin-bottom: 0.5em; "></p>
+
+<b>岩下 航</b>
 <p style="margin-bottom: -0.5em; "></p>
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/) [流体力学グループ](https://fm.me.es.osaka-u.ac.jp/index.html) <br>
