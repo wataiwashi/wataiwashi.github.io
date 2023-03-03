@@ -5,16 +5,15 @@ excerpt: "Japanese"
 author_profile: true
 ---
 
-岩下 航 <br>
-<p style="margin-bottom: 0.5em; "></p>
+岩下 航
+<p style="margin-bottom: -0.5em; "></p>
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)　[流体力学グループ](https://fm.me.es.osaka-u.ac.jp/index.html) <br>
-博士後期課程学生 <br>
-<p style="margin-bottom: 0.5em; "></p>
+博士後期課程学生
+<p style="margin-bottom: -0.5em; "></p>
 
 [日本学術振興会特別研究員](https://www.jsps.go.jp/j-pd/index.html)（DC1）
 
-<p style="margin-bottom: -1em; "></p>
 
 経歴
 =====
@@ -25,8 +24,9 @@ author_profile: true
 
 <p style="margin-bottom: 1.5em; "></p>
 
-研究分野
+専門・研究分野
 ======
+* <b>機械工学</b>
 * <b>トライボロジー</b>
 * <b>摩擦の物理</b>
 * <b>Amontons--Coulombの摩擦則</b>
@@ -46,8 +46,10 @@ author_profile: true
 
 学会発表
 =====
+
 国際学会
 ------
+
 [Talksのページに移動](https://wataiwashi.github.io/talks/)
 
 国内学会
