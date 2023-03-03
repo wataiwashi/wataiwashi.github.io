@@ -31,8 +31,8 @@ Languages
 * <span style="color: #4a4a4a; display: inline-block; width: 5.5em; "> C            </span> --- &nbsp; 1
 * <span style="color: #787878; display: inline-block; width: 5.5em; "> Linux/Shell  </span> --- &nbsp; 2
 
-<ul class="author__urls social-icons">
-  <li><a href="https://github.com/wataiwashi/TIL/" target="_blank"> GitHub repository: Today I Learned (TIL)</a></li>
+<ul>
+  <li><a href="https://github.com/wataiwashi/TIL/" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub repository: Today I Learned (TIL)</a></li>
 </ul>
 
 <p style="margin-bottom: 1em; "></p>
