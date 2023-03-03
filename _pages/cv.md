@@ -47,7 +47,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-<p style="margin-bottom: 1em; "></p>
+<p style="margin-bottom: 1.5em; "></p>
 
 Research proposal-based use of supercomputer systems
 ======
