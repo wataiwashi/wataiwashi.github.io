@@ -24,10 +24,16 @@ Languages
 * <span style="color: #171717; display: inline-block; width: 5.5em; "> Japanese     </span> --- &nbsp; 4
 * <span style="color: #171717; display: inline-block; width: 5.5em; "> English      </span> --- &nbsp; 3
 * <span style="color: #171717; display: inline-block; width: 5.5em; "> Malay        </span> --- &nbsp; 2
+<p style="margin-bottom: 0.5em; "></p>
+
 * <span style="color: #4a4a4a; display: inline-block; width: 5.5em; "> Fortran      </span> --- &nbsp; 3
 * <span style="color: #4a4a4a; display: inline-block; width: 5.5em; "> Python       </span> --- &nbsp; 2
 * <span style="color: #4a4a4a; display: inline-block; width: 5.5em; "> C            </span> --- &nbsp; 1
 * <span style="color: #787878; display: inline-block; width: 5.5em; "> Linux/Shell  </span> --- &nbsp; 2
+
+<ul class="author__urls social-icons">
+  <li><a href="https://github.com/wataiwashi/TIL/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub repository: Today I Learned (TIL)</li>
+</ul>
 
 Research proposal-based use of supercomputer systems
 ======
