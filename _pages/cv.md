@@ -33,16 +33,7 @@ Languages
 
 <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/wataiwashi/TIL/" target="_blank">GitHub repository: Today I Learned (TIL)</a>
 
-<p style="margin-bottom: 1em; "></p>
-
-Research proposal-based use of supercomputer systems
-======
-
-|  Supercomputer system  |  Category  |  Year  |
-| ---- | ---- | ---- |
-|  Fugaku, RIKEN Center for Computational Science, Japan  |  Trial Access Projects  | 2023 |
-|  SQUID, Cybermedia Center, Osaka University, Japan  |  Large-Scale High-Performance Computing Projects  | 2023 |
-
+<p style="margin-bottom: 1.5em; "></p>
 
 Publications
 ======
@@ -55,6 +46,17 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+<p style="margin-bottom: 1em; "></p>
+
+Research proposal-based use of supercomputer systems
+======
+
+|  Supercomputer system  |  Category  |  Year  |
+| ---- | ---- | ---- |
+|  Fugaku, RIKEN Center for Computational Science, Japan  |  Trial Access Projects  | 2023 |
+|  SQUID, Cybermedia Center, Osaka University, Japan  |  Large-Scale High-Performance Computing Projects  | 2023 |
+
   
 [ou]:https://www.osaka-u.ac.jp/en
 [nitc]:https://www.nagano-nct.ac.jp/english/index.php
