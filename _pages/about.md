@@ -16,7 +16,7 @@ Previous affiliations
 -----
 * [National Institute of Technology (NIT), Nagano College, Japan](https://www.nagano-nct.ac.jp/english/index.php) (-- 2019)
 
-<p></p>
+<br>
 
 My research interests
 ======
