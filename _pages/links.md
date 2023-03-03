@@ -18,9 +18,9 @@ author_profile: true
 * [The Japan Society of Mechanical Engineers (JSME)](https://www.jsme.or.jp/english/)
 
 ## Collaborators
-* [Prof. Michio Otsuki](https://fm.me.es.osaka-u.ac.jp/otsuki/) (Osaka University, Japan)
-* [Prof. Hiroshi Matsukawa](http://www.phys.aoyama.ac.jp/~w3-matsu/) (Aoyama Gakuin University, Japan)
-* [Prof. Kenji Yanagisawa](http://teacher.nagano-nct.ac.jp/yanagisawa/) (NIT Nagano College, Japan)
+* [Prof. Michio Otsuki (Osaka University, Japan)](https://fm.me.es.osaka-u.ac.jp/otsuki/)
+* [Prof. Hiroshi Matsukawa (Aoyama Gakuin University, Japan)](http://www.phys.aoyama.ac.jp/~w3-matsu/)
+* [Prof. Kenji Yanagisawa (NIT Nagano College, Japan)](http://teacher.nagano-nct.ac.jp/yanagisawa/)
 
 ## Supercomputer systems in main use
 * [Yukawa Institute for Theoretical Physics (YITP), Kyoto University, Japan](https://www.yukawa.kyoto-u.ac.jp/en-GB/contents/kyoudou/computer)
