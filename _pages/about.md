@@ -14,7 +14,9 @@ Ph.D student at [Fluid Mechanics Group](https://fm.me.es.osaka-u.ac.jp/en/), [Os
 
 Previous affiliations
 -----
-* [National Institute of Technology (NIT), Nagano College, Japan](https://www.nagano-nct.ac.jp/english/index.php) (--2019)
+* [National Institute of Technology (NIT), Nagano College, Japan](https://www.nagano-nct.ac.jp/english/index.php) (-- 2019)
+
+<p></p>
 
 My research interests
 ======
