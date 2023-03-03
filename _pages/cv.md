@@ -32,7 +32,7 @@ Languages
 * <span style="color: #787878; display: inline-block; width: 5.5em; "> Linux/Shell  </span> --- &nbsp; 2
 
 <ul class="author__urls social-icons">
-  <li><a href="https://github.com/wataiwashi/TIL/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub repository: Today I Learned (TIL)</li>
+  <li><a href="https://github.com/wataiwashi/TIL/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub repository: Today I Learned (TIL)</a></li>
 </ul>
 
 Research proposal-based use of supercomputer systems
