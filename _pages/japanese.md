@@ -46,16 +46,21 @@ author_profile: true
 
 学会発表
 =====
-<p style="margin-bottom: -0.5em; "></p>
+<p style="margin-bottom: -1em; "></p>
 
 国際学会
 ------
+<p style="margin-bottom: -0.5em; "></p>
 
 [Talksのページに移動](https://wataiwashi.github.io/talks/)
-<p style="margin-bottom: -0.5em; "></p>
+<p style="margin-bottom: -1em; "></p>
 
 国内学会
 -------
+<p style="margin-bottom: -0.5em; "></p>
+
+* 2023年3月　[日本物理学会2023年春季大会](https://www.jps.or.jp/activities/meetings/spring/spring_index.php)、オンライン開催
+* 2022年11月　[トライボロジー会議2022 秋 福井](https://www.tribology.jp/conference/tribology_conference/22fukui/index.html)、フェニックス・プラザ、福井
 
 <p style="margin-bottom: 1.5em; "></p>
 
