@@ -12,7 +12,7 @@ author_profile: true
 博士後期課程学生
 <p style="margin-bottom: -0.5em; "></p>
 
-[日本学術振興会特別研究員](https://www.jsps.go.jp/j-pd/index.html)（DC1）
+[日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/j-pd/index.html)
 
 
 経歴
@@ -61,8 +61,8 @@ author_profile: true
 
 * 岩下航，松川宏，大槻道夫，[日本物理学会2023年春季大会](https://www.jps.or.jp/activities/meetings/spring/spring_index.php)，オンライン開催，2023年3月．
 * 岩下航，松川宏，大槻道夫，[トライボロジー会議2022 秋 福井](https://www.tribology.jp/conference/tribology_conference/22fukui/index.html)，福井 フェニックス・プラザ，2022年11月．
-* 岩下航，松川宏，大槻道夫，[日本物理学会2022年年次大会](jps.or.jp/activities/meetings/annual/annual-index.php)，オンライン開催，2022年3月．
-* 岩下航，松川宏，大槻道夫，[2021 年日本表面真空学会学術講演会](https://www.jvss.jp/annual/mtg2021/)，オンライン開催，2021年11月．[https://doi.org/10.14886/jvss.2021.0_1Ca12S](https://doi.org/10.14886/jvss.2021.0_1Ca12S)
+* 岩下航，松川宏，大槻道夫，[日本物理学会第77回年次大会](https://www.jps.or.jp/activities/meetings/annual/annual-index.php)，オンライン開催，2022年3月．
+* 岩下航，松川宏，大槻道夫，[2021年日本表面真空学会学術講演会](https://www.jvss.jp/annual/mtg2021/)，オンライン開催，2021年11月．[https://doi.org/10.14886/jvss.2021.0_1Ca12S](https://doi.org/10.14886/jvss.2021.0_1Ca12S)
 * 岩下航，松川宏，大槻道夫，[トライボロジー会議2021 秋 松江](https://www.tribology.jp/conference/tribology_conference/21matsue/index.html)，オンライン開催，2021年10月．
 * 岩下航，松川宏，大槻道夫，[日本機械学会 関西学生会2020年度学生員卒業研究発表講演会](https://confit.atlas.jp/guide/event/ksconf2021s/top)，オンライン開催，2021年3月．
 * 岩下航，柳澤憲史，奥村紀浩，[日本機械学会 北陸信越支部第56期総会・講演会](https://www.jsme.or.jp/conference/hsconf19/)，富山大学，2019年3月．[https://doi.org/10.1299/jsmehs.2019.56.L031](https://doi.org/10.1299/jsmehs.2019.56.L031)
