@@ -12,7 +12,8 @@ Hi! I'm Wataru Iwashita. <br>
 Ph.D student at [Fluid Mechanics Group](https://fm.me.es.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en), Japan. <br>
 [Japan Society for the Promotion of Science (JSPS)](https://www.jsps.go.jp/english/) Research Fellow (DC1). 
 
-## Previous affiliations
+Previous affiliations
+-----
 * [National Institute of Technology (NIT), Nagano College, Japan](https://www.nagano-nct.ac.jp/english/index.php) (--2019)
 
 My research interests
