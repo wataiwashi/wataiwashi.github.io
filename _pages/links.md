@@ -9,7 +9,7 @@ author_profile: true
   * [Graduate School of Engineering Science](https://www.es.osaka-u.ac.jp/en/)
     * [Fluid Mechanics Group](https://fm.me.es.osaka-u.ac.jp/en/)
 
-## Former affiliations
+## Previous affiliations
 * [National Institute of Technology (NIT), Nagano College, Japan](https://www.nagano-nct.ac.jp/english/index.php)
 
 ## Academic society
