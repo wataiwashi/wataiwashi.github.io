@@ -40,6 +40,7 @@ author_profile: true
 * [日本トライボロジー学会](https://www.tribology.jp/index.html)
 * [日本物理学会](https://www.jps.or.jp/)
 * [日本機械学会](https://www.jsme.or.jp/)
+* [日本表面真空学会](https://www.jvss.jp/)
 
 <p style="margin-bottom: 2em; "></p>
 
