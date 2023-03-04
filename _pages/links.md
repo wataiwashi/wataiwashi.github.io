@@ -16,6 +16,7 @@ author_profile: true
 * [Japanese Society of Tribologists (JAST)](https://www.tribology.jp/indexe.htm)
 * [The Physical Society of Japan (JPS)](https://www.jps.or.jp/english/)
 * [The Japan Society of Mechanical Engineers (JSME)](https://www.jsme.or.jp/english/)
+* [The Japan Society of Vacuum and Surface Science (JVSS)](https://www.jvss.jp/eng/index.php)
 
 ## Collaborators
 * [Prof. Michio Otsuki (Osaka University, Japan)](https://fm.me.es.osaka-u.ac.jp/otsuki/)
