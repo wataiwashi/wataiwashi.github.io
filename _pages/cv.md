@@ -56,6 +56,7 @@ Research proposal-based use of supercomputer systems
 | ---- | ---- | ---- |
 |  Fugaku, RIKEN Center for Computational Science, Japan  |  Trial Access Projects  | 2023 |
 |  SQUID, Cybermedia Center, Osaka University, Japan  |  Large-Scale High-Performance Computing Projects  | 2023 |
+|  Research Center for Computational Science, National Institutes of Natural Sciences Okazaki Research Facilities, Japan  |  RCCS Computational Resource Category (B)  | 2023 |
 
   
 [ou]:https://www.osaka-u.ac.jp/en
