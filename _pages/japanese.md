@@ -65,6 +65,7 @@ author_profile: true
 
 <font size="3">
 <ul>
+  <li> 岩下航，松川宏，大槻道夫，<a href="https://confit.atlas.jp/guide/event/jsme2023/top" target="_blank">日本機械学会2023年度年次大会</a>，東京都立大学，2023年9月．</li>
   <li> 岩下航，松川宏，大槻道夫，<a href="https://www.jps.or.jp/activities/meetings/spring/spring_index.php" target="_blank">日本物理学会2023年春季大会</a>，オンライン開催，2023年3月．</li>
   <li> 岩下航，松川宏，大槻道夫，<a href="https://www.tribology.jp/conference/tribology_conference/22fukui/index.html" target="_blank">トライボロジー会議2022 秋 福井</a>，福井 フェニックス・プラザ，2022年11月．</li>
   <li>  岩下航，松川宏，大槻道夫，<a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第77回年次大会</a>，オンライン開催，2022年3月．</li>
