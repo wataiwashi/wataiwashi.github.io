@@ -27,4 +27,6 @@ author_profile: true
 ## Supercomputer systems in main use
 * [Yukawa Institute for Theoretical Physics (YITP), Kyoto University, Japan](https://www.yukawa.kyoto-u.ac.jp/en-GB/contents/kyoudou/computer)
 * [The Institute for Solid State Physics (ISSP), The University of Tokyo, Japan](https://mdcl.issp.u-tokyo.ac.jp/scc/)
+* [Cybermedia Center, Osaka University, Japan](http://www.hpc.cmc.osaka-u.ac.jp/en/)
+* [Research Center for Computational Science, National Institutes of Natural Sciences, Japan](https://ccportal.ims.ac.jp/en/)
 * [Fugaku, RIKEN Center for Computational Science, Japan](https://www.r-ccs.riken.jp/en/fugaku/)
