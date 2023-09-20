@@ -1,6 +1,7 @@
 ---
 title: "Control of static friction by designing grooves on friction surface"
 collection: submissions
+collectsp: 'Published in'
 permalink: /publications/2023-09-paper-number-1
 excerpt: ''
 date: 2023-09-15
