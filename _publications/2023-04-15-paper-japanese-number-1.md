@@ -1,6 +1,7 @@
 ---
 title: "傾斜面上をすべり落ちる水滴に働く摩擦力に水滴量が及ぼす影響 (Effect of drop volume on friction force between sliding water drop and tilting surface)"
 collection: publications
+collectsp: 'Published in'
 permalink: /publications/2023-04-paper-japanese-number-1
 excerpt: ''
 date: 2023-04-15
