@@ -6,7 +6,7 @@ permalink: /publications/2023-09-paper-number-1
 excerpt: ''
 date: 2023-09-15
 venue: ''
-paperurl: 'https://doi.org/10.48550/arXiv.2309.08111'
+paperurl: 'https://doi.org/10.48550/arXiv.2309.08111 https://doi.org/10.21203/rs.3.rs-3356991/v1'
 citation: 'W. Iwashita, H. Matsukawa & M. Otsuki, arXiv:2309.08111.'
 ---
 
