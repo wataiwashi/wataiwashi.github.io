@@ -10,7 +10,8 @@ redirect_from:
 
 Hi! I'm Wataru Iwashita. <br>
 Ph.D. student at [Fluid Mechanics Group](https://fm.me.es.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en), Japan. <br>
-[Japan Society for the Promotion of Science (JSPS) Research Fellow (DC1)](https://www.jsps.go.jp/english/e-pd/index.html). 
+[Japan Society for the Promotion of Science (JSPS) Research Fellow (DC1)](https://www.jsps.go.jp/english/e-pd/index.html). <br>
+Academic guest at [Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/), [ETH Zurich](https://ethz.ch/en.html), Switzerland. 
 
 <p style="margin-bottom: -1em; "></p>
 
