@@ -22,6 +22,7 @@ author_profile: true
 * [Prof. Michio Otsuki (Osaka University, Japan)](https://fm.me.es.osaka-u.ac.jp/otsuki/)
 * [Prof. Hiroshi Matsukawa (Aoyama Gakuin University, Japan)](http://www.phys.aoyama.ac.jp/~w3-matsu/)
 * [Prof. Kenji Yanagisawa (NIT Nagano College, Japan)](http://teacher.nagano-nct.ac.jp/yanagisawa/)
+* [Prof. David Kammer (ETH Zurich, Switzerland)](https://ifb.ethz.ch/compmech/the-chair/people/person-detail.MjUwODc1.TGlzdC80MzQzLDEzNTM4NzUzMzg=.html)
 * [Dr. Kiwamu Yoshii (Nagoya University, Japan)](https://qyoshii.github.io/)
 
 ## Supercomputer systems in main use
