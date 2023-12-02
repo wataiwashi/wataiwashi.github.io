@@ -16,7 +16,11 @@ author_profile: true
 <p style="margin-bottom: -0.5em; "></p>
 
 [日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/j-pd/index.html)
+<p style="margin-bottom: -0.5em; "></p>
 
+[ETH Zurich](https://ethz.ch/en.html) (スイス)
+&ensp;[Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/) <br>
+[Young Researchers' Exchange Programme][ethyrep]&ensp;客員研究員
 
 経歴
 =====
@@ -86,3 +90,5 @@ author_profile: true
 |  理化学研究所計算科学研究センター 「富岳」  |  一般試行課題  | 2023 |
 |  大阪大学サイバーメディアセンター SQUID  |  大規模HPC支援枠  | 2023 |
 |  自然科学研究機構 計算科学研究センター  |  施設利用(B)  | 2023 |
+
+[ethyrep]:https://leadinghouseasia.ethz.ch/funding-instruments/mobility-grants/young-researchers-exchange-programmes/young-researchers--exchange-programme---special-2023-call.html
