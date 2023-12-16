@@ -5,9 +5,9 @@ collectsp: submit
 permalink: /publications/2023-09-paper-number-1
 excerpt: ''
 date: 2023-09-15
-venue: ''
+venue: 'Tribology Letters'
 paperurl: 'https://doi.org/10.48550/arXiv.2309.08111'
-citation: 'W. Iwashita, H. Matsukawa & M. Otsuki, arXiv:2309.08111.'
+citation: 'W. Iwashita, H. Matsukawa & M. Otsuki, <i>Tribol. Lett.</i> in press.'
 ---
 
 Research Square preprint: [https://doi.org/10.21203/rs.3.rs-3356991/v1](https://doi.org/10.21203/rs.3.rs-3356991/v1)
