@@ -56,6 +56,8 @@ author_profile: true
 =====
 <p style="margin-bottom: -1em; "></p>
 
+[外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations)
+
 国際学会
 ------
 <p style="margin-bottom: -0.5em; "></p>
