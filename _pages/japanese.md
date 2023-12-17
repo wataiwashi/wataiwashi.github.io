@@ -75,7 +75,7 @@ author_profile: true
   <li>  岩下航，松川宏，大槻道夫，<a href="https://onsite.gakkai-web.net/jps/jps_search/2022sp/index.html" target="_blank">日本物理学会第77回年次大会</a>，オンライン開催，2022年3月．</li>
   <li>  岩下航，松川宏，大槻道夫，<a href="https://www.jvss.jp/annual/mtg2021/" target="_blank">2021年日本表面真空学会学術講演会</a>，オンライン開催，2021年11月．<a href="https://doi.org/10.14886/jvss.2021.0_1Ca12S" target="_blank">https://doi.org/10.14886/jvss.2021.0_1Ca12S</a> </li>
   <li>  岩下航，松川宏，大槻道夫，<a href="https://www.tribology.jp/conference/tribology_conference/21matsue/index.html" target="_blank">トライボロジー会議2021 秋 松江</a>，オンライン開催，2021年10月．</li>
-  <li>  岩下航，松川宏，大槻道夫，<a href="https://confit.atlas.jp/guide/event/ksconf2021s/top" target="_blank">日本機械学会 関西学生会2020年度学生員卒業研究発表講演会</a>，オンライン開催，2021年3月．</li>
+  <li>  岩下航，大槻道夫，<a href="https://confit.atlas.jp/guide/event/ksconf2021s/top" target="_blank">日本機械学会 関西学生会2020年度学生員卒業研究発表講演会</a>，オンライン開催，2021年3月．</li>
   <li>  岩下航，柳澤憲史，奥村紀浩，<a href="https://www.jsme.or.jp/conference/hsconf19/" target="_blank">日本機械学会 北陸信越支部第56期総会・講演会</a>，富山大学，2019年3月．<a href="https://doi.org/10.1299/jsmehs.2019.56.L031" target="_blank">https://doi.org/10.1299/jsmehs.2019.56.L031</a> </li>
 </ul>
 </font>
