@@ -70,9 +70,9 @@ author_profile: true
 <font size="3">
 <ul>
   <li> 岩下航，松川宏，大槻道夫，<a href="https://confit.atlas.jp/guide/event/jsme2023/top" target="_blank">日本機械学会2023年度年次大会</a>，東京都立大学，2023年9月．</li>
-  <li> 岩下航，松川宏，大槻道夫，<a href="https://www.jps.or.jp/activities/meetings/spring/spring_index.php" target="_blank">日本物理学会2023年春季大会</a>，オンライン開催，2023年3月．</li>
+  <li> 岩下航，松川宏，大槻道夫，<a href="https://onsite.gakkai-web.net/jps/jps_search/2023sp/index.html" target="_blank">日本物理学会2023年春季大会</a>，オンライン開催，2023年3月．</li>
   <li> 岩下航，松川宏，大槻道夫，<a href="https://www.tribology.jp/conference/tribology_conference/22fukui/index.html" target="_blank">トライボロジー会議2022 秋 福井</a>，福井 フェニックス・プラザ，2022年11月．</li>
-  <li>  岩下航，松川宏，大槻道夫，<a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank">日本物理学会第77回年次大会</a>，オンライン開催，2022年3月．</li>
+  <li>  岩下航，松川宏，大槻道夫，<a href="https://onsite.gakkai-web.net/jps/jps_search/2022sp/index.html" target="_blank">日本物理学会第77回年次大会</a>，オンライン開催，2022年3月．</li>
   <li>  岩下航，松川宏，大槻道夫，<a href="https://www.jvss.jp/annual/mtg2021/" target="_blank">2021年日本表面真空学会学術講演会</a>，オンライン開催，2021年11月．<a href="https://doi.org/10.14886/jvss.2021.0_1Ca12S" target="_blank">https://doi.org/10.14886/jvss.2021.0_1Ca12S</a> </li>
   <li>  岩下航，松川宏，大槻道夫，<a href="https://www.tribology.jp/conference/tribology_conference/21matsue/index.html" target="_blank">トライボロジー会議2021 秋 松江</a>，オンライン開催，2021年10月．</li>
   <li>  岩下航，松川宏，大槻道夫，<a href="https://confit.atlas.jp/guide/event/ksconf2021s/top" target="_blank">日本機械学会 関西学生会2020年度学生員卒業研究発表講演会</a>，オンライン開催，2021年3月．</li>
