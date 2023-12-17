@@ -54,9 +54,8 @@ author_profile: true
 
 学会発表
 =====
-<p style="margin-bottom: -1em; "></p>
-
 [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations)
+<p style="margin-bottom: -1em; "></p>
 
 国際学会
 ------
