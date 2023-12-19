@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Department of Mechanical Science and Bioengineering, [Osaka University][ou], Japan, 2025 (expected)
-* [Young Researchers' Exchange Programme][ethyrep], ETH Zurich, Switzerland, 2023
+* [Young Researchers' Exchange Programme][ethyrep], ETH Zurich, Switzerland, 2023-2024
 * M.E. in Department of Mechanical Science and Bioengineering, [Osaka University][ou], Japan, 2022
 * B.E. in Department of Systems Science, [Osaka University][ou], Japan, 2021
 * Associate D.E., Department of Mechanical Engineering, [National Institute of Technology, Nagano College][nitc], Japan, 2019
