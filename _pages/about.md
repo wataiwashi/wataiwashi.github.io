@@ -20,7 +20,7 @@ Previous affiliations
 
 <p style="margin-bottom: -0.5em; "></p>
 
-* [National Institute of Technology (NIT), Nagano College, Japan](https://www.nagano-nct.ac.jp/english/index.php) (2013-2019)
+* [National Institute of Technology (NIT), Nagano College, Japan](https://www.nagano-nct.ac.jp/english/index.php) (April 2013 - March 2019)
 
 <p style="margin-bottom: 1.5em; "></p>
 
