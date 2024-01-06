@@ -25,9 +25,9 @@ author_profile: true
 経歴
 =====
 
-* 2022年　工学修士　　[大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
-* 2021年　工学学士　　[大阪大学基礎工学部](https://www.es.osaka-u.ac.jp/ja/)
-* 2019年　工学準学士　[長野工業高等専門学校](https://www.nagano-nct.ac.jp/english/index.php)
+* 2022年3月　工学修士　　[大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
+* 2021年3月　工学学士　　[大阪大学基礎工学部](https://www.es.osaka-u.ac.jp/ja/)
+* 2019年3月　工学準学士　[長野工業高等専門学校](https://www.nagano-nct.ac.jp/english/index.php)
 
 <p style="margin-bottom: 1.5em; "></p>
 
