@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D. in Department of Mechanical Science and Bioengineering, [Osaka University][ou], Japan, 2025 (expected)
-* [Young Researchers' Exchange Programme][ethyrep], ETH Zurich, Switzerland, 2023-2024
-* M.E. in Department of Mechanical Science and Bioengineering, [Osaka University][ou], Japan, 2022
-* B.E. in Department of Systems Science, [Osaka University][ou], Japan, 2021
-* Associate D.E., Department of Mechanical Engineering, [National Institute of Technology, Nagano College][nitc], Japan, 2019
+* [Young Researchers' Exchange Programme][ethyrep], [ETH Zurich][ethz], Switzerland, October 2023 - January 2024
+* M.E. in Department of Mechanical Science and Bioengineering, [Osaka University][ou], Japan, March 2022
+* B.E. in Department of Systems Science, [Osaka University][ou], Japan, March 2021
+* Associate D.E., Department of Mechanical Engineering, [National Institute of Technology, Nagano College][nitc], Japan, March 2019
 * [AFS Exchange Program][afs], SMK Seri Badong, Malaysia, 2015
   
 Languages
@@ -64,3 +64,4 @@ Research proposal-based use of supercomputer systems
 [nitc]:https://www.nagano-nct.ac.jp/english/index.php
 [afs]:https://afs.org/
 [ethyrep]:https://leadinghouseasia.ethz.ch/funding-instruments/mobility-grants/young-researchers-exchange-programmes/young-researchers--exchange-programme---special-2023-call.html
+[ethz]:https://ethz.ch/en.html
