@@ -50,7 +50,7 @@ author_profile: true
 
 論文
 =====
-[Publicationsのページに移動](https://wataiwashi.github.io/publications/)
+{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
 
 学会発表
 =====
