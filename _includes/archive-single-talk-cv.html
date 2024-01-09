@@ -1,6 +1,5 @@
 {% include base_path %}
 
-{% if post.first %}
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -41,4 +40,3 @@
     </li>
   </article>
 </div>
-{% endif %}
