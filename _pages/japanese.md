@@ -70,9 +70,11 @@ author_profile: true
 ------
 <p style="margin-bottom: -0.5em; "></p>
 
+<font size="3">
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+</font>
 
 <p style="margin-bottom: -1em; "></p>
 
