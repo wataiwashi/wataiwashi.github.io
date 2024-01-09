@@ -50,9 +50,9 @@ author_profile: true
 
 論文
 =====
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 <p style="margin-bottom: 2em; "></p>
 
@@ -62,15 +62,15 @@ author_profile: true
 
 [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations)
 
-<p style="margin-bottom: -1em; "></p>
+<p style="margin-bottom: -1.5em; "></p>
 
 国際学会
 ------
 <p style="margin-bottom: -0.5em; "></p>
 
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 <p style="margin-bottom: -1em; "></p>
 
