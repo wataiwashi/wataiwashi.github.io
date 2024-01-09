@@ -45,7 +45,9 @@ Publications
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
+    {% if post.first %}
     {% include archive-single-talk-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
 
 <p style="margin-bottom: 1.5em; "></p>
