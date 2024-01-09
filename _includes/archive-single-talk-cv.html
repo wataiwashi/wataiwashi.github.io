@@ -27,17 +27,15 @@
       </div>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      {% if post.link and post.first %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
+      {% elif post.first %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
 <!--     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>{% endif %} -->
-    {% if post.first %}
-    {% if post.authors and post.venue and post.date %}
+    {% if post.authors and post.venue and post.date and post.first %}
       <p class="archive__item-excerpt" itemprop="description">{{post.authors}}, {{ post.venue }}, {{post.location}}, {{post.type}}, {{ post.date | date: '%B, %Y' }}</p>
-    {% endif %}
     {% endif %}
     </li>
   </article>
