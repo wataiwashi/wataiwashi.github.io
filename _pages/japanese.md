@@ -50,7 +50,11 @@ author_profile: true
 
 論文
 =====
-{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+<p style="margin-bottom: 2em; "></p>
 
 学会発表
 =====
@@ -81,7 +85,7 @@ author_profile: true
 </ul>
 </font>
 
-<p style="margin-bottom: 1.5em; "></p>
+<p style="margin-bottom: 2em; "></p>
 
 スーパーコンピュータ公募利用
 =====
