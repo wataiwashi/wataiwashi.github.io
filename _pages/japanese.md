@@ -5,6 +5,8 @@ excerpt: "Japanese"
 author_profile: true
 ---
 
+{% include base_path %}
+
 <p style="margin-bottom: 0.5em; "></p>
 
 <b>岩下 航</b>
