@@ -12,6 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.first %}
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <li>
@@ -38,4 +39,4 @@
     </li>
   </article>
 </div>
-
+{% endif %}
