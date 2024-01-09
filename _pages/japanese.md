@@ -58,14 +58,20 @@ author_profile: true
 
 学会発表
 =====
+<p style="margin-bottom: -0.5em; "></p>
+
 [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations)
+
 <p style="margin-bottom: -1em; "></p>
 
 国際学会
 ------
 <p style="margin-bottom: -0.5em; "></p>
 
-[Talksのページに移動](https://wataiwashi.github.io/talks/)
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 <p style="margin-bottom: -1em; "></p>
 
 国内学会
