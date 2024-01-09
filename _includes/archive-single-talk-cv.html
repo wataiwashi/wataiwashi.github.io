@@ -1,5 +1,6 @@
 {% include base_path %}
 
+{% if post.first %}
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -12,7 +13,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% if post.first %}
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <li>
@@ -35,7 +35,9 @@
       {% endif %}
     </h3>
 <!--     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %-d, %Y' }}</p>{% endif %} -->
-    {% if post.authors and post.venue and post.date %}<p class="archive__item-excerpt" itemprop="description">{{post.authors}}, {{ post.venue }},  {{post.location}}, {{post.type}}, {{ post.date | date: '%B, %Y' }}</p>{% endif %}
+    {% if post.authors and post.venue and post.date %}
+      <p class="archive__item-excerpt" itemprop="description">{{post.authors}}, {{ post.venue }},  {{post.location}}, {{post.type}}, {{ post.date | date: '%B, %Y' }}</p>
+    {% endif %}
     </li>
   </article>
 </div>
