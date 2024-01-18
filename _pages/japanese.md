@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /japanese/
 title: "日本語情報"
 excerpt: "Japanese"
