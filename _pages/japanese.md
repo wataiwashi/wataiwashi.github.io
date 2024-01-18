@@ -8,10 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-<p style="margin-bottom: 0.5em; "></p>
-
-<b>岩下 航</b>
-<p style="margin-bottom: -0.5em; "></p>
+<p style="margin-top: 1.0em; margin-bottom: -0.5em;">
+  <b>岩下 航</b>
+</p>
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
 &ensp;[流体力学グループ](https://fm.me.es.osaka-u.ac.jp/index.html) <br>
@@ -53,11 +52,12 @@ author_profile: true
 
 論文
 =====
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<p style="margin-bottom: -1em; "></p>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
-<p style="margin-bottom: 2em; "></p>
+<p style="margin-bottom: 3em; "></p>
 
 学会発表
 =====
@@ -65,15 +65,15 @@ author_profile: true
 
 [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations)
 
-<p style="margin-bottom: -1.5em; "></p>
+<p style="margin-bottom: -1.2em; "></p>
 
 国際学会
 ------
 <p style="margin-bottom: -0.5em; "></p>
 
-{% for post in site.talks reversed %}
+<ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
-{% endfor %}
+{% endfor %}</ul>
 
 <p style="margin-bottom: -1em; "></p>
 
