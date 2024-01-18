@@ -43,7 +43,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<p style="margin-bottom: 1em; "></p>
+<p style="margin-bottom: 2em; "></p>
 
 Talks
 ======
