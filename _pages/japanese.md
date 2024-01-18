@@ -10,7 +10,7 @@ author_profile: true
 
 <p style="margin-bottom:  1.5em;"></p>
 <p style="margin-bottom: -0.5em;">
-  <font size="6"><b>岩下 航</b></font>
+  <font size="5"><b>岩下 航</b></font>
 </p>
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
