@@ -8,8 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-<p style="margin-top: 1.0em; margin-bottom: -0.5em;">
-  <b>岩下 航</b>
+<p style="margin-bottom:  1.5em;"></p>
+<p style="margin-bottom: -0.5em;">
+  <font size="4"><b>岩下 航</b></font>
 </p>
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
@@ -65,11 +66,11 @@ author_profile: true
 
 [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations)
 
-<p style="margin-bottom: -1.2em; "></p>
+<p style="margin-bottom: -1.0em; "></p>
 
 国際学会
 ------
-<p style="margin-bottom: -0.5em; "></p>
+<p style="margin-bottom: -1em; "></p>
 
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
