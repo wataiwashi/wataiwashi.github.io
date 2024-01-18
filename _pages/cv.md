@@ -38,17 +38,19 @@ Languages
 
 Publications
 ======
+<p style="margin-bottom: -1em; "></p>
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
+<p style="margin-bottom: -1em; "></p>
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-<p style="margin-bottom: 1.5em; "></p>
+<p style="margin-bottom: 2em; "></p>
 
 Research proposal-based use of supercomputer systems
 ======
