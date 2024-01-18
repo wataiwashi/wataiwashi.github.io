@@ -36,7 +36,8 @@ layout: default
           <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
           <br> <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{page.location}}</p>
         {% endif %}
-        {% if post.venue and post.authors %}<p>{{post.authors}}<br>{{post.type}} at {{ post.venue }},  {{post.location}}</p>{% endif %}
+        {% if post.authors %}<p>{{post.authors}}</p>{% endif %}
+        {% if page.type %}<p>{{page.type}} at {{ page.venue }} </p>{% endif %}
 
         </header>
       {% endunless %}
