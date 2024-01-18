@@ -42,7 +42,9 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<p style="margin-bottom: 1em; "></p>
+
 Talks
 ======
 <p style="margin-bottom: -1em; "></p>
