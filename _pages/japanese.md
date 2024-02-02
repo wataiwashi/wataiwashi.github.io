@@ -21,13 +21,10 @@ author_profile: true
 [日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/j-pd/index.html)
 <p style="margin-bottom: -0.5em; "></p>
 
-[ETH Zurich](https://ethz.ch/en.html) (スイス)
-&ensp;[Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/) <br>
-[Young Researchers' Exchange Programme][ethyrep]&ensp;客員研究員
-
 経歴
 =====
 
+* 2023年10月 - 2024年1月　客員研究員　[Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/), [ETH Zurich](https://ethz.ch/en.html) (スイス)
 * 2022年3月　工学修士　　[大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
 * 2021年3月　工学学士　　[大阪大学基礎工学部](https://www.es.osaka-u.ac.jp/ja/)
 * 2019年3月　工学準学士　[長野工業高等専門学校](https://www.nagano-nct.ac.jp/english/index.php)
@@ -64,7 +61,7 @@ author_profile: true
 =====
 <p style="margin-bottom: -0.5em; "></p>
 
-[外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations)
+[外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100)
 
 <p style="margin-bottom: -1.0em; "></p>
 
