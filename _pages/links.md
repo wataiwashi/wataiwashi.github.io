@@ -8,10 +8,10 @@ author_profile: true
 * [Osaka University](https://www.osaka-u.ac.jp/en), Japan
   * [Graduate School of Engineering Science](https://www.es.osaka-u.ac.jp/en/)
     * [Fluid Mechanics Group](https://fm.me.es.osaka-u.ac.jp/en/)
-* [ETH Zurich](https://ethz.ch/en.html), Switzerland
-  * [Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/)
 
 ## Previous affiliations
+* [ETH Zurich](https://ethz.ch/en.html), Switzerland
+  * [Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/)
 * [National Institute of Technology (NIT), Nagano College](https://www.nagano-nct.ac.jp/english/index.php), Japan
 
 ## Academic society
