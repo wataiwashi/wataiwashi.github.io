@@ -11,7 +11,6 @@ redirect_from:
 Hi! I'm Wataru Iwashita. <br>
 Ph.D. student at [Fluid Mechanics Group](https://fm.me.es.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en), Japan. <br>
 [Japan Society for the Promotion of Science (JSPS) Research Fellow (DC1)](https://www.jsps.go.jp/english/e-pd/index.html). <br>
-Academic guest at [Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/), [ETH Zurich](https://ethz.ch/en.html), Switzerland. 
 
 <p style="margin-bottom: -1em; "></p>
 
@@ -20,6 +19,7 @@ Previous affiliations
 
 <p style="margin-bottom: -0.5em; "></p>
 
+* [Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/), [ETH Zurich](https://ethz.ch/en.html), Switzerland (Academic guest, October 2023 - January 2024)
 * [National Institute of Technology (NIT), Nagano College](https://www.nagano-nct.ac.jp/english/index.php), Japan (April 2013 - March 2019)
 
 <p style="margin-bottom: 1.5em; "></p>
