@@ -61,7 +61,7 @@ author_profile: true
 =====
 <p style="margin-bottom: -0.5em; "></p>
 
-[外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100)
+[外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100&lang=ja)
 
 <p style="margin-bottom: -1.0em; "></p>
 
