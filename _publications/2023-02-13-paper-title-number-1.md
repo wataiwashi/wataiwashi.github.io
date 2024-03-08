@@ -2,7 +2,7 @@
 title: "Static friction coefficient depends on the external pressure and block shape due to precursor slip"
 collection: publications
 collectsp: publish
-award: Scientific Reports Engineering Top 100 of 2023
+award: '[Scientific Reports Engineering Top 100 of 2023](https://www.nature.com/collections/hhhbgjfbga)'
 permalink: /publications/2023-02-paper-number-1
 excerpt: ''
 date: 2023-02-13
