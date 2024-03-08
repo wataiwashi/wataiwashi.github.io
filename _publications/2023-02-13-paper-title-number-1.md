@@ -16,4 +16,4 @@ Keywords: Amontons' law, Static friction coefficient, Precursor slip, Macroscopi
 
 Scientific Reports Engineering Top 100 of 2023
 
-<img src="{{ "sci.rep.author-badge.png" | prepend: "/images/" | prepend: base_path }}" width="200" alt="Scientific Reports Top 100 author badge">
+<img src="{{ "sci.rep.author-badge.png" | prepend: "/images/" | prepend: base_path }}" width="300" alt="Scientific Reports Top 100 author badge">
