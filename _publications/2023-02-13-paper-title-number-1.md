@@ -2,7 +2,7 @@
 title: "Static friction coefficient depends on the external pressure and block shape due to precursor slip"
 collection: publications
 collectsp: publish
-award: '[Scientific Reports Engineering Top 100 of 2023](https://www.nature.com/collections/hhhbgjfbga)'
+award: <a href="https://www.nature.com/collections/hhhbgjfbga" target="_blank">Scientific Reports Engineering Top 100 of 2023</a>
 permalink: /publications/2023-02-paper-number-1
 excerpt: ''
 date: 2023-02-13
@@ -15,6 +15,6 @@ Keywords: Amontons' law, Static friction coefficient, Precursor slip, Macroscopi
 
 <a href="https://rdcu.be/dwiRk" target="_blank">Springer Nature SharedIt</a>
 
-<p>{{ page.award }}</p>
+{{ page.award }}
 
 <img src="{{ "sci.rep.author-badge.png" | prepend: "/images/" | prepend: base_path }}" width="300" alt="Scientific Reports Top 100 author badge">
