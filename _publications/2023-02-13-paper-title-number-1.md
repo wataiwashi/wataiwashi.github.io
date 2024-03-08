@@ -13,3 +13,7 @@ citation: 'W. Iwashita, H. Matsukawa & M. Otsuki, <i>Sci. Rep.</i> <b>13</b>, 25
 Keywords: Amontons' law, Static friction coefficient, Precursor slip, Macroscopic object, Viscoelastic object, Finite element method simulation
 
 <a href="https://rdcu.be/dwiRk" target="_blank">Springer Nature SharedIt</a>
+
+Scientific Reports Engineering Top 100 of 2023
+
+<img src="sci.rep.author-badge.png" alt="{{ Scientific Reports Top 100 author badge }}">
