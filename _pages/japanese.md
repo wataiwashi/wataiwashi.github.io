@@ -81,6 +81,7 @@ author_profile: true
 
 <font size="3">
 <ul>
+  <li> 岩下航，大槻道夫，<a href="https://onsite.gakkai-web.net/jps/jps_search/2024sp/index.html" target="_blank" rel="noopener noreferrer">日本物理学会2024年春季大会</a>，オンライン開催，2024年3月．</li>
   <li> 岩下航，松川宏，大槻道夫，<a href="https://confit.atlas.jp/guide/event/jsme2023/top" target="_blank">日本機械学会2023年度年次大会</a>，東京都立大学，2023年9月．</li>
   <li> 岩下航，松川宏，大槻道夫，<a href="https://onsite.gakkai-web.net/jps/jps_search/2023sp/index.html" target="_blank">日本物理学会2023年春季大会</a>，オンライン開催，2023年3月．</li>
   <li> 岩下航，松川宏，大槻道夫，<a href="https://www.tribology.jp/conference/tribology_conference/22fukui/index.html" target="_blank">トライボロジー会議2022 秋 福井</a>，福井 フェニックス・プラザ，2022年11月．</li>
@@ -101,6 +102,6 @@ author_profile: true
 | ---- | ---- | ---- |
 |  理化学研究所計算科学研究センター 「富岳」  |  一般試行課題  | 2023 |
 |  大阪大学サイバーメディアセンター SQUID  |  大規模HPC支援枠  | 2023 |
-|  自然科学研究機構 計算科学研究センター  |  施設利用(B)  | 2023 |
+|  自然科学研究機構 計算科学研究センター  |  施設利用(B)  | 2023, 2024 |
 
 [ethyrep]:https://leadinghouseasia.ethz.ch/funding-instruments/mobility-grants/young-researchers-exchange-programmes/young-researchers--exchange-programme---special-2023-call.html
