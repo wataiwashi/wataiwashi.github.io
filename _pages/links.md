@@ -25,7 +25,9 @@ author_profile: true
 * [Prof. Hiroshi Matsukawa](http://www.phys.aoyama.ac.jp/~w3-matsu/) (Aoyama Gakuin University, Japan)
 * [Prof. Kenji Yanagisawa](http://teacher.nagano-nct.ac.jp/yanagisawa/) (NIT Nagano College, Japan)
 * [Prof. David Kammer](https://ifb.ethz.ch/compmech/the-chair/people/person-detail.MjUwODc1.TGlzdC80MzQzLDEzNTM4NzUzMzg=.html) (ETH Zurich, Switzerland)
+* [Prof. Gabriele Albertini](https://albertini-research.com/) (University of Nottingham, UK)
 * [Dr. Kiwamu Yoshii](https://qyoshii.github.io/) (Nagoya University, Japan)
+* [Dr. Yusuke Koide](https://sites.google.com/view/y-koide/home/) (Nagoya University, Japan)
 
 ## Supercomputer systems in main use
 * [Yukawa Institute for Theoretical Physics (YITP), Kyoto University](https://www.yukawa.kyoto-u.ac.jp/en-GB/contents/kyoudou/computer), Japan
