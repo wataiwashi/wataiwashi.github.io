@@ -102,7 +102,7 @@ author_profile: true
 |  スーパーコンピュータ  |  課題枠  |  利用年  |
 | ---- | ---- | ---- |
 |  理化学研究所計算科学研究センター 「富岳」  |  一般試行課題  | 2023, 2024 |
-|  大阪大学サイバーメディアセンター SQUID  |  大規模HPC支援枠  | 2023 |
+|  大阪大学サイバーメディアセンター SQUID  |  大規模HPC支援枠  | 2023, 2024 |
 |  自然科学研究機構 計算科学研究センター  |  施設利用(B)  | 2023, 2024 |
 
 [ethyrep]:https://leadinghouseasia.ethz.ch/funding-instruments/mobility-grants/young-researchers-exchange-programmes/young-researchers--exchange-programme---special-2023-call.html
