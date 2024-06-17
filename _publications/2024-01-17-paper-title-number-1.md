@@ -13,3 +13,5 @@ citation: 'W. Iwashita, H. Matsukawa & M. Otsuki, <i>Tribol. Lett.</i> <b>72</b>
 Keywords: Static friction coefficient, Groove design, Precursor slip, Amontons' law, Viscoelastic object
 
 <a href="https://rdcu.be/dwiBX" target="_blank">Springer Nature SharedIt</a>
+
+See also [Arts](/arts) page for visualized results!
