@@ -10,11 +10,11 @@ author_profile: true
 
 *  Non-grooved object
 
-[![Slip nucleation of non-grooved object](https://img.youtube.com/vi/bV2FvNokl6c/0.jpg)](https://www.youtube.com/watch?v=bV2FvNokl6c "Slip nucleation of non-grooved object")
+[![Slip nucleation of non-grooved object](https://img.youtube.com/vi/bV2FvNokl6c/0.jpg)](https://www.youtube.com/watch?v=bV2FvNokl6c "Slip nucleation of non-grooved object"){:target="_blank"}
 
 * Grooved object
 
-[![Slip nucleation of grooved object](https://img.youtube.com/vi/TV4r5Lxt05Q/0.jpg)](https://www.youtube.com/watch?v=TV4r5Lxt05Q "Slip nucleation of grooved object")
+[![Slip nucleation of grooved object](https://img.youtube.com/vi/TV4r5Lxt05Q/0.jpg)](https://www.youtube.com/watch?v=TV4r5Lxt05Q "Slip nucleation of grooved object"){:target="_blank"}
 
 
 Visualized using software developed by [N. Lilittrakul](https://www.lee-lit.com/){:target="_blank"}
