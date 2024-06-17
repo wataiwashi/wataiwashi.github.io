@@ -16,6 +16,8 @@ author_profile: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bV2FvNokl6c?si=DVnoxsGI3Dom59tb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="280" height="157" src="https://www.youtube-nocookie.com/embed/bV2FvNokl6c?si=Rxarx2dPSxfIfhme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Grooved object
 
 [![Slip nucleation of grooved object](https://img.youtube.com/vi/TV4r5Lxt05Q/0.jpg)](https://www.youtube.com/watch?v=TV4r5Lxt05Q "Slip nucleation of grooved object"){:target="_blank"}
