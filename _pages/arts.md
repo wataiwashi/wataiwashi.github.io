@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ## Slip nucleation
-### Control of static friction by designing grooves on friction surface, [<i>Tribol. Lett.</i> <b>72</b>, 25 (2024)](https://doi.org/10.1007/s11249-023-01822-4){:target="_blank"}
+### Control of static friction by designing grooves on friction surface
+[<i>Tribol. Lett.</i> <b>72</b>, 25 (2024)](https://doi.org/10.1007/s11249-023-01822-4){:target="_blank"}
 
 *  Non-grooved object
 
