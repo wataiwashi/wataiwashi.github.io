@@ -14,7 +14,7 @@ author_profile: true
 [![Slip nucleation of non-grooved object](https://img.youtube.com/vi/bV2FvNokl6c/0.jpg)](https://www.youtube.com/watch?v=bV2FvNokl6c "Slip nucleation of non-grooved object"){:target="_blank"}
 -->
 
-<video src="https://youtu.be/bV2FvNokl6c" controls="true"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bV2FvNokl6c?si=DVnoxsGI3Dom59tb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Grooved object
 
