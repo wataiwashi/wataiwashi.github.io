@@ -28,6 +28,7 @@ author_profile: true
 * [Prof. Gabriele Albertini](https://albertini-research.com/){:target="_blank"} (University of Nottingham, UK)
 * [Dr. Kiwamu Yoshii](https://qyoshii.github.io/){:target="_blank"} (Nagoya University, Japan)
 * [Dr. Yusuke Koide](https://sites.google.com/view/y-koide/home/){:target="_blank"} (Nagoya University, Japan)
+* [Mr. Napat Lilittrakul](https://www.lee-lit.com/){:target="_blank"} (Visualization software developer, Osaka University, Japan)
 
 ## Supercomputer systems in main use
 * [Yukawa Institute for Theoretical Physics (YITP), Kyoto University](https://www.yukawa.kyoto-u.ac.jp/en-GB/contents/kyoudou/computer){:target="_blank"}, Japan
