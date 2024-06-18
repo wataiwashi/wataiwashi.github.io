@@ -1,7 +1,7 @@
 ---
 permalink: /arts/
 title: "Arts"
-author_profile: true
+author_profile: false
 ---
 
 Visualized using software developed by [N. Lilittrakul](https://www.lee-lit.com/){:target="_blank"}
