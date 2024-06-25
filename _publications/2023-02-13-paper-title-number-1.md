@@ -15,6 +15,8 @@ Keywords: Amontons' law, Static friction coefficient, Precursor slip, Macroscopi
 
 <a href="https://rdcu.be/dwiRk" target="_blank">Springer Nature SharedIt</a>
 
+See also [Arts](/arts) page for visualized results!
+
 <b>{{page.award}}</b>
 
 <img src="{{ "sci.rep.author-badge.png" | prepend: "/images/" | prepend: base_path }}" width="300" alt="Scientific Reports Top 100 author badge">
