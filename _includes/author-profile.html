@@ -91,9 +91,6 @@
       {% if author.steam %}
         <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fab fa-fw fa-steam-square" aria-hidden="true"></i> Steam</a></li>
       {% endif %}
-      {% if author.youtube %}
-        <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
-      {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
       {% endif %}
@@ -120,6 +117,9 @@
       {% endif %}
       {% if author.researchmap %}
         <li><a href="{{ author.researchmap }}" target='_blank'><img title='researchmap' alt='researchmap' src='https://researchmap.jp/outline/img/researchmap220.gif' /></a></li>
+      {% endif %}
+      {% if author.youtube %}
+        <li><a href="https://www.youtube.com/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
     </ul>
   </div>
