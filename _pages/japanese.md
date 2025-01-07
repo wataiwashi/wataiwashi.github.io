@@ -81,6 +81,8 @@ author_profile: true
 
 <font size="3">
 <ul>
+  <li> 岩下航, 大槻道夫，<a href="" target="_blank" rel="noopener noreferrer">日本物理学会 2025年春季大会</a>，大阪大学，2025年3月．</li>
+  <li> 岩下航, 大槻道夫，<a href="https://softmatter.xsrv.jp/event/meeting_12.html" target="_blank" rel="noopener noreferrer">第12回ソフトマター研究会</a>，大阪大学，2024年12月．</li>
   <li> 岩下航, 大槻道夫，<a href="https://www.tribology.jp/conference/tribology_conference/24nago/index.html" target="_blank" rel="noopener noreferrer">トライボロジー会議2024 秋 名護</a>，名護 万国津梁館，2024年10月．</li>
   <li> 岩下航, D.S. Kammer，<a href="https://onsite.gakkai-web.net/jps/jps_search/2024au/index.html" target="_blank" rel="noopener noreferrer">日本物理学会第79回年次大会</a>，北海道大学，2024年9月．</li>
   <li> 岩下航，<a href="https://sites.google.com/view/friction2024" target="_blank" rel="noopener noreferrer">摩擦学の新展開：アモントン－クーロン則を超えて</a>，京都大学基礎物理学研究所，2024年9月．</li>
